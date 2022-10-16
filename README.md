@@ -7,7 +7,7 @@ Description(What my code does):
     Otherwise, it will do nothing.
 
 Example:
-    Please give me your name:
+    {Please give me your name:
     
 User input: Alan
 
@@ -18,6 +18,7 @@ User input: Alan
 User input: 1
 
 System output(print): Your name is: Alan 
+}
 
 
 Why I choose this license:
