@@ -7,12 +7,12 @@ Description(What my code does):
     Otherwise, it will do nothing.
 
 Example:
-    Please give me your name:
-User input: Alan
-    If you want to print it -> type in 1;
-    If you want do nothing -> type in 2
-User input: 1
-System output(print): Your name is: Alan
+    Please give me your name:\n
+User input: Alan\n
+    If you want to print it -> type in 1;\n
+    If you want do nothing -> type in 2 \n
+User input: 1\n
+System output(print): Your name is: Alan \n
 
 Why I choose this license:
     
