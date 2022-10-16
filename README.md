@@ -24,7 +24,6 @@ System output(print): Your name is: Alan
 Why I choose this license:
     
     
-Why I choose this Code-Of-Conduct:
-
+Why I choose this Code-Of-Conduct:<br>
     __Becuase this Code-Of-Conduct is widely used by many people, I found they probably covered nearly every aspect of what the contributor should do and shouldn't do. I think it is a great idea to just use their CoC to make sure thing go in a right way__ 
     --by Haoshen
